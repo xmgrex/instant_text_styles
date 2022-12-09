@@ -1,6 +1,6 @@
 name: instant_text_styles
 description: Simple text styles can be implemented instantly.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/xmgrex/instant_text_styles
 
 environment:
